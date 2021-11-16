@@ -1,0 +1,4 @@
+ArchivoFacturacion.txt
+Luciano	TelLuciano.txt
+Pedro	TelPedro.txt
+Ariel	TelAriel.txt
